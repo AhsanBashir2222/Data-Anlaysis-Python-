@@ -1,0 +1,11 @@
+import numpy as np
+arr = np.array([6, 3, 8, 3, 1])
+print(np.sort(arr))
+
+# sort alphabet
+ar2 = np.array(["banana", "Cherry", "Apple"])
+print(np.sort(ar2))
+
+#
+ar3 = np.array([[3, 2, 4], [6, 5, 7]])
+print(np.sort(ar3))
